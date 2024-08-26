@@ -1,0 +1,15 @@
+pip install pyttsx3
+pip install SpeechRecognition
+pip install datetime
+pip install wikipedia
+pip install random2
+pip install googletrans
+pip install gTTS
+pip install wolframalpha
+pip install requests
+pip install pywhatkit
+pip install pyjokes
+pip install newsapi-python
+pip install PyAutoGUI
+pip install opencv-python
+pip install numpy
